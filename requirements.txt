@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+FastAPI-SQLAlchemy
+SQLAlchemy
+psycopg2-binary
+fastapi-pagination
